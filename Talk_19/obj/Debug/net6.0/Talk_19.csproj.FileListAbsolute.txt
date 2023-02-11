@@ -1,0 +1,15 @@
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\bin\Debug\net6.0\Talk_19.exe
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\bin\Debug\net6.0\Talk_19.deps.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\bin\Debug\net6.0\Talk_19.runtimeconfig.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\bin\Debug\net6.0\Talk_19.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\bin\Debug\net6.0\Talk_19.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.csproj.AssemblyReference.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.AssemblyInfoInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.AssemblyInfo.cs
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.csproj.CoreCompileInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\refint\Talk_19.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\Talk_19.genruntimeconfig.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_#3\Talk_19\obj\Debug\net6.0\ref\Talk_19.dll
